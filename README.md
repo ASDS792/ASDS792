@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я [Твоё Имя] 👋</h1>
+<h1 align="center">Привет! Я Матвей 👋</h1>
 
 <p align="center">
   💻 Python-разработчик | 🧠 Изучаю ИИ и автоматизацию | 🚀 Стремлюсь к высоким результатам
@@ -27,18 +27,16 @@
 
 ### 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASDS792&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASDS792&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Связаться со мной
 
-- Telegram: [@твой_ник](https://t.me/твой_ник)
-- Email: твоя@почта.com
-- LinkedIn: [linkedin.com/in/твой-профиль](https://linkedin.com/in/твой-профиль)
-
+- Telegram: [@SickBANG]
+- Email: Nickjerson@yandex.com
 ---
 
 ⭐️ Спасибо, что заглянул в мой профиль!
